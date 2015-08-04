@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/WSDrees/learningGit/issues"
   },
-  "homepage": "https://github.com/WSDrees/learningGit#readme"
+  "homepage": "https://github.com/WSDrees/learningGit#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
