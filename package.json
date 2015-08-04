@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WSDrees/learningGit.git"
+  },
+  "keywords": [
+    "Web",
+    "on",
+    "the",
+    "Rocks",
+    ".io"
+  ],
+  "author": "EffinWebDevKids",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WSDrees/learningGit/issues"
+  },
+  "homepage": "https://github.com/WSDrees/learningGit#readme"
+}
